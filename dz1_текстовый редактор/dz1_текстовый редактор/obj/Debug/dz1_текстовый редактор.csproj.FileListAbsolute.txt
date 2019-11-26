@@ -1,0 +1,14 @@
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\bin\Debug\dz1_текстовый редактор.exe.config
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\bin\Debug\dz1_текстовый редактор.exe
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\bin\Debug\dz1_текстовый редактор.pdb
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\dz1_текстовый редактор.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\MainWindow.g.cs
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\App.g.cs
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\dz1_текстовый редактор_MarkupCompile.cache
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\dz1_текстовый редактор_MarkupCompile.lref
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\MainWindow.baml
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\dz1_текстовый редактор.g.resources
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\dz1_текстовый_редактор.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\dz1_текстовый редактор.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\dz1_текстовый редактор.exe
+C:\Users\group-bbv182\source\repos\dz1_текстовый редактор\dz1_текстовый редактор\obj\Debug\dz1_текстовый редактор.pdb
