@@ -1,0 +1,14 @@
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\bin\Debug\dz1_3_убегающая кнока.exe.config
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\bin\Debug\dz1_3_убегающая кнока.exe
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\bin\Debug\dz1_3_убегающая кнока.pdb
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\dz1_3_убегающая кнока.csprojAssemblyReference.cache
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\MainWindow.g.cs
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\App.g.cs
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\dz1_3_убегающая кнока_MarkupCompile.cache
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\dz1_3_убегающая кнока_MarkupCompile.lref
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\MainWindow.baml
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\dz1_3_убегающая кнока.g.resources
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\dz1_3_убегающая_кнока.Properties.Resources.resources
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\dz1_3_убегающая кнока.csproj.GenerateResource.cache
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\dz1_3_убегающая кнока.exe
+C:\Users\group-bbv182\source\repos\dz1_3_убегающая кнока\dz1_3_убегающая кнока\obj\Debug\dz1_3_убегающая кнока.pdb
