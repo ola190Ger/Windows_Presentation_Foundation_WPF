@@ -1,0 +1,14 @@
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\bin\Debug\WPF_HW2_Keyboard_simulator.exe.config
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\bin\Debug\WPF_HW2_Keyboard_simulator.exe
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\bin\Debug\WPF_HW2_Keyboard_simulator.pdb
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\App.g.cs
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\WPF_HW2_Keyboard_simulator_MarkupCompile.cache
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\WPF_HW2_Keyboard_simulator_MarkupCompile.lref
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\MainWindow.baml
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\WPF_HW2_Keyboard_simulator.g.resources
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\WPF_HW2_Keyboard_simulator.Properties.Resources.resources
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\WPF_HW2_Keyboard_simulator.csproj.GenerateResource.cache
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\WPF_HW2_Keyboard_simulator.exe
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\WPF_HW2_Keyboard_simulator.pdb
+C:\Users\Dell\Source\Repos\WPF_HW2_Keyboard_simulator\WPF_HW2_Keyboard_simulator\obj\Debug\WPF_HW2_Keyboard_simulator.csprojAssemblyReference.cache
